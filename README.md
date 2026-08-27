@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devansh302/dsa/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devansh302/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devansh302/dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/devansh302/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/devansh302/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/devansh302/dsa/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh302/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
