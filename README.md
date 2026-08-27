@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/devansh302/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devansh302/dsa/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devansh302/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/devansh302/dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -77,17 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devansh302/dsa/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/devansh302/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/devansh302/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
