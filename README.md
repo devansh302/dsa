@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/devansh302/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/devansh302/dsa/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/devansh302/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devansh302/dsa/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/devansh302/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/devansh302/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/devansh302/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/devansh302/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/devansh302/dsa/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/devansh302/dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/devansh302/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/devansh302/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
