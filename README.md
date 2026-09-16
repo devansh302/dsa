@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/devansh302/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devansh302/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devansh302/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1929-concatenation-of-array](https://github.com/devansh302/dsa/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/devansh302/dsa/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
