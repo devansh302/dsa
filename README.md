@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/devansh302/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devansh302/dsa/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/devansh302/dsa/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/devansh302/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/devansh302/dsa/tree/master/0125-valid-palindrome) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/devansh302/dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/devansh302/dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh302/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 | [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/devansh302/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/devansh302/dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/devansh302/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
