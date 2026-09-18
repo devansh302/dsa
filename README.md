@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/devansh302/dsa/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/devansh302/dsa/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/devansh302/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/devansh302/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devansh302/dsa/tree/master/0151-reverse-words-in-a-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh302/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/devansh302/dsa/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
