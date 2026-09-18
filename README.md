@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/devansh302/dsa/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/devansh302/dsa/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/devansh302/dsa/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/devansh302/dsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/devansh302/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/devansh302/dsa/tree/master/0205-isomorphic-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/devansh302/dsa/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/devansh302/dsa/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/devansh302/dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devansh302/dsa/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/devansh302/dsa/tree/master/0387-first-unique-character-in-a-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/devansh302/dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/devansh302/dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/devansh302/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devansh302/dsa/tree/master/0930-binary-subarrays-with-sum) |
