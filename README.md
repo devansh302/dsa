@@ -175,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/devansh302/dsa/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
