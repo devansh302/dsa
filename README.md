@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh302/dsa/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/devansh302/dsa/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/devansh302/dsa/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/devansh302/dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/devansh302/dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/devansh302/dsa/tree/master/0020-valid-parentheses) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devansh302/dsa/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/devansh302/dsa/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/devansh302/dsa/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/devansh302/dsa/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/devansh302/dsa/tree/master/0044-wildcard-matching) |
 ## Backtracking
 |  |
