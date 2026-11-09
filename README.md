@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/devansh302/dsa/tree/master/0077-combinations) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/devansh302/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
