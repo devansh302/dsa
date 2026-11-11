@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devansh302/dsa/tree/master/0014-longest-common-prefix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/devansh302/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/devansh302/dsa/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/devansh302/dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/devansh302/dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/devansh302/dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/devansh302/dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/devansh302/dsa/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devansh302/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/devansh302/dsa/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/devansh302/dsa/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/devansh302/dsa/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/devansh302/dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/devansh302/dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -126,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/devansh302/dsa/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/devansh302/dsa/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/devansh302/dsa/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/devansh302/dsa/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/devansh302/dsa/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
